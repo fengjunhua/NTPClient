@@ -1,2 +1,2 @@
 # NTPClient
-Go语言开的ntp客户端
+Go语言开的时间管理器
